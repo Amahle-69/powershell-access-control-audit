@@ -1,0 +1,6 @@
+Department,RequiredGroup
+Finance,Finance-Users
+Human Resources,HR-Users
+IT,IT-Users
+IT,Helpdesk-Operators
+Operations,Operations-Users

@@ -1,0 +1,6 @@
+EmployeeID,FirstName,LastName,Department,UserPrincipalName
+A1001,Lerato,Mthembu,Finance,lerato.mthembu@example.com
+A1002,Thabo,Ndlovu,Human Resources,thabo.ndlovu@example.com
+A1003,Zanele,Dlamini,IT,zanele.dlamini@example.com
+A1004,Naledi,Mokoena,Finance,naledi.mokoena@example.com
+A1005,Kabelo,Sithole,Operations,kabelo.sithole@example.com
